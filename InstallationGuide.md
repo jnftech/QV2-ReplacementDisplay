@@ -79,7 +79,7 @@ We will reuse the old display's plastic housing, so set it aside for now, and yo
 | Quadraverb 2 | Q20 |
 | :---: | :---: |
 | <img src="/_images/fig_jumpQV2.jpg" width="240"> | <img src="/_images/fig_jumpQ20.jpg" width="240"> |
-| Default setting | Notice the cut in the Q2 jumper! |
+| Default setting | Notice the cut in Q2 jumper, and solder strap for the Q20 jumper |
 
 </div>
 
